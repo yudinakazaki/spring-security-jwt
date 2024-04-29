@@ -1,4 +1,4 @@
-package com.br.yudinakazaki.springsecurityjwt;
+package com.br.yudinakazaki.springsecurityjwt.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.br.yudinakazaki.springsecurityjwt;
+package com.br.yudinakazaki.springsecurityjwt.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
